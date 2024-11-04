@@ -1,5 +1,3 @@
-## Hi there 👋
-
-## Weekly Coding Stats
+## <!:!{?-*#;|=))+[:$'^?;!|,_,|{\+"_}<
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
