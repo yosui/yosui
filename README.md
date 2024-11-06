@@ -1,4 +1,7 @@
 ## <!:!{?-*#;|=))+[:$'^?;!|,_,|{\+"_}<
+
+![hamster is coding in front of pc at warehouse. and then, squid eats the pizza](/public/image/0.gif)
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
 
@@ -73,5 +76,3 @@ Solidity                 2 repos             ██░░░░░░░░░�
 
  Last Updated on 05/11/2024 18:41:31 UTC
 <!--END_SECTION:waka-->
-
-![hamster is coding in front of pc at warehouse. and then, squid eats the pizza](/public/image/0.gif)
