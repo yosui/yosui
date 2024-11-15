@@ -3,15 +3,13 @@
 ![hamster is coding in front of pc at warehouse. and then, squid eats the pizza](/public/image/0.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 174.3 kB Used in GitHub's Storage 
- > 
-> 🏆 284 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -82,5 +80,5 @@ Solidity                 2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yosui/yosui/master/assets/bar_graph.png)
 
 
- Last Updated on 14/11/2024 18:43:16 UTC
+ Last Updated on 15/11/2024 18:43:07 UTC
 <!--END_SECTION:waka-->
