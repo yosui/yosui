@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -44,16 +44,18 @@ Sunday                   9 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Markdown                 44 mins             █████████████████████████   100.00 % 
+TypeScript               1 hr 9 mins         ███████████████░░░░░░░░░░   61.10 % 
+Markdown                 44 mins             ██████████░░░░░░░░░░░░░░░   38.90 % 
 
 🔥 Editors: 
-VS Code                  44 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 53 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dev                      44 mins             █████████████████████████   100.00 % 
+astraeus-ic              1 hr 9 mins         ███████████████░░░░░░░░░░   61.10 % 
+dev                      44 mins             ██████████░░░░░░░░░░░░░░░   38.90 % 
 
 💻 Operating System: 
-Mac                      44 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 53 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -73,5 +75,5 @@ Solidity                 2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yosui/yosui/master/assets/bar_graph.png)
 
 
- Last Updated on 19/11/2024 18:43:38 UTC
+ Last Updated on 20/11/2024 18:43:56 UTC
 <!--END_SECTION:waka-->
