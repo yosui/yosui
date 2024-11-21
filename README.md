@@ -3,7 +3,7 @@
 ![hamster is coding in front of pc at warehouse. and then, squid eats the pizza](/public/image/0.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,18 +44,16 @@ Sunday                   9 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-TypeScript               1 hr 9 mins         ███████████████░░░░░░░░░░   61.10 % 
-Markdown                 44 mins             ██████████░░░░░░░░░░░░░░░   38.90 % 
+TypeScript               1 hr 9 mins         █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 53 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 9 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-astraeus-ic              1 hr 9 mins         ███████████████░░░░░░░░░░   61.10 % 
-dev                      44 mins             ██████████░░░░░░░░░░░░░░░   38.90 % 
+astraeus-ic              1 hr 9 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 53 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,5 +73,5 @@ Solidity                 2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yosui/yosui/master/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2024 18:43:56 UTC
+ Last Updated on 21/11/2024 18:43:47 UTC
 <!--END_SECTION:waka-->
