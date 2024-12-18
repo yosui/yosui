@@ -11,8 +11,6 @@
 
 > 📦 179.6 kB Used in GitHub's Storage 
  > 
-> 🏆 497 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -46,16 +44,20 @@ Sunday                   12 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               5 hrs 58 mins       ████████████████████████░   95.20 % 
+CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+frontier-protocol        6 hrs 16 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      6 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,5 +77,5 @@ Solidity                 2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yosui/yosui/master/assets/bar_graph.png)
 
 
- Last Updated on 17/12/2024 18:45:20 UTC
+ Last Updated on 18/12/2024 18:44:04 UTC
 <!--END_SECTION:waka-->
