@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -15,7 +15,7 @@
  > 
 > 📜 9 Public Repositories 
  > 
-> 🔑 13 Private Repositories 
+> 🔑 14 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -65,11 +65,11 @@ Mac                      6 hrs 23 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   9 repos             ████████░░░░░░░░░░░░░░░░░   32.14 % 
-TypeScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Rust                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Solidity                 2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Python                   9 repos             ████████░░░░░░░░░░░░░░░░░   31.03 % 
+TypeScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Rust                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Solidity                 2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 ```
 
 
@@ -79,5 +79,5 @@ Solidity                 2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yosui/yosui/master/assets/bar_graph.png)
 
 
- Last Updated on 20/12/2024 18:41:31 UTC
+ Last Updated on 21/12/2024 18:39:11 UTC
 <!--END_SECTION:waka-->
