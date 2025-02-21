@@ -3,7 +3,7 @@
 ![hamster is coding in front of pc at warehouse. and then, squid eats the pizza](/public/image/0.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -63,10 +63,10 @@ Mac                      47 mins             ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               12 repos            █████████░░░░░░░░░░░░░░░░   36.36 % 
+TypeScript               11 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
 Python                   10 repos            ████████░░░░░░░░░░░░░░░░░   30.30 % 
 HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Rust                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Rust                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 Solidity                 2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 ```
 
@@ -77,5 +77,5 @@ Solidity                 2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yosui/yosui/master/assets/bar_graph.png)
 
 
- Last Updated on 20/02/2025 18:42:21 UTC
+ Last Updated on 21/02/2025 18:41:41 UTC
 <!--END_SECTION:waka-->
