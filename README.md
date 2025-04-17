@@ -3,7 +3,7 @@
 ![hamster is coding in front of pc at warehouse. and then, squid eats the pizza](/public/image/0.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -44,9 +44,9 @@ Sunday                   12 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-TypeScript               20 hrs 34 mins      ██████████████████████░░░   89.46 % 
+TypeScript               20 hrs 34 mins      ██████████████████████░░░   89.47 % 
 Other                    1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
@@ -56,7 +56,7 @@ Cursor                   22 hrs 59 mins      ███████████�
 🐱‍💻 Projects: 
 prwire-pub               15 hrs 32 mins      █████████████████░░░░░░░░   67.59 % 
 prwire-sub               4 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
-dev                      2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+dev                      2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
 web                      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 💻 Operating System: 
@@ -80,5 +80,5 @@ Solidity                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yosui/yosui/master/assets/bar_graph.png)
 
 
- Last Updated on 16/04/2025 18:45:44 UTC
+ Last Updated on 17/04/2025 18:44:48 UTC
 <!--END_SECTION:waka-->
