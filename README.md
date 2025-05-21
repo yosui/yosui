@@ -3,13 +3,13 @@
 ![hamster is coding in front of pc at warehouse. and then, squid eats the pizza](/public/image/0.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-269%20hrs%2048%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 183.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,19 +44,19 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-TypeScript               1 hr 18 mins        ██████████████░░░░░░░░░░░   57.93 % 
-Markdown                 53 mins             ██████████░░░░░░░░░░░░░░░   39.72 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+TypeScript               1 hr 17 mins        ████████████████░░░░░░░░░   63.85 % 
+Markdown                 40 mins             ████████░░░░░░░░░░░░░░░░░   33.57 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 15 mins       █████████████████████████   100.00 % 
+Cursor                   2 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-astraeus-ic              2 hrs 15 mins       █████████████████████████   100.00 % 
+astraeus-ic              2 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 15 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -76,5 +76,5 @@ Solidity                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yosui/yosui/master/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2025 18:47:55 UTC
+ Last Updated on 21/05/2025 18:46:52 UTC
 <!--END_SECTION:waka-->
