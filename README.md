@@ -46,20 +46,16 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Git Config               11 mins             █████████████████████░░░░   84.02 % 
-Other                    1 min               ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-analytics                13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -79,5 +75,5 @@ Solidity                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yosui/yosui/master/assets/bar_graph.png)
 
 
- Last Updated on 06/07/2025 18:45:17 UTC
+ Last Updated on 07/07/2025 18:49:04 UTC
 <!--END_SECTION:waka-->
