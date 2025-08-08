@@ -11,8 +11,6 @@
 
 > 📦 318.8 kB Used in GitHub's Storage 
  > 
-> 🏆 362 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -75,5 +73,5 @@ Solidity                 4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yosui/yosui/master/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2025 18:54:52 UTC
+ Last Updated on 08/08/2025 18:49:50 UTC
 <!--END_SECTION:waka-->
