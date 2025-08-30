@@ -3,8 +3,6 @@
 ![hamster is coding in front of pc at warehouse. and then, squid eats the pizza](/public/image/0.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2043%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -73,5 +71,5 @@ Solidity                 4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yosui/yosui/master/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2025 18:42:57 UTC
+ Last Updated on 30/08/2025 18:41:56 UTC
 <!--END_SECTION:waka-->
