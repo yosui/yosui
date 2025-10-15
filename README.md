@@ -3,21 +3,19 @@
 ![hamster is coding in front of pc at warehouse. and then, squid eats the pizza](/public/image/0.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2043%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 406.2 kB Used in GitHub's Storage 
+> 📦 409.4 kB Used in GitHub's Storage 
  > 
-> 🏆 739 Contributions in the Year 2025
+> 🏆 746 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
  > 
-> 🔑 37 Private Repositories 
+> 🔑 39 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -75,5 +73,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yosui/yosui/master/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2025 18:46:02 UTC
+ Last Updated on 15/10/2025 18:47:21 UTC
 <!--END_SECTION:waka-->
