@@ -3,19 +3,21 @@
 ![hamster is coding in front of pc at warehouse. and then, squid eats the pizza](/public/image/0.gif)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2043%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 409.4 kB Used in GitHub's Storage 
+> 📦 409.5 kB Used in GitHub's Storage 
  > 
-> 🏆 746 Contributions in the Year 2025
+> 🏆 753 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
  > 
-> 🔑 39 Private Repositories 
+> 🔑 40 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -59,11 +61,11 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               34 repos            █████████████░░░░░░░░░░░░   51.52 % 
-Rust                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Solidity                 5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+TypeScript               35 repos            █████████████░░░░░░░░░░░░   52.24 % 
+Rust                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Solidity                 5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 ```
 
 
@@ -73,5 +75,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yosui/yosui/master/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2025 18:47:21 UTC
+ Last Updated on 16/10/2025 18:46:51 UTC
 <!--END_SECTION:waka-->
