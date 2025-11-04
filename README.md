@@ -6,13 +6,15 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2043%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 306.1 kB Used in GitHub's Storage 
  > 
-> 🏆 831 Contributions in the Year 2025
+> 🏆 858 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -62,11 +64,11 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               34 repos            ███████████████░░░░░░░░░░   61.82 % 
-HTML                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Solidity                 4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+TypeScript               35 repos            ████████████████░░░░░░░░░   62.50 % 
+HTML                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Solidity                 4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 
 
@@ -76,5 +78,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yosui/yosui/master/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2025 18:44:09 UTC
+ Last Updated on 04/11/2025 18:48:04 UTC
 <!--END_SECTION:waka-->
