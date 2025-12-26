@@ -42,23 +42,6 @@ Saturday                 22 commits          █████░░░░░░�
 Sunday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Amsterdam
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
