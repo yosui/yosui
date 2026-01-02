@@ -6,8 +6,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2043%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
@@ -78,5 +76,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yosui/yosui/master/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2026 18:50:01 UTC
+ Last Updated on 02/01/2026 18:49:49 UTC
 <!--END_SECTION:waka-->
