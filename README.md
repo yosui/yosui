@@ -14,13 +14,13 @@
 
 > 📦 737.3 kB Used in GitHub's Storage 
  > 
-> 🏆 402 Contributions in the Year 2026
+> 🏆 407 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
  > 
-> 🔑 71 Private Repositories 
+> 🔑 73 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -70,11 +70,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               54 repos            █████████████░░░░░░░░░░░░   51.43 % 
-Shell                    13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Rust                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-JavaScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+TypeScript               54 repos            █████████████░░░░░░░░░░░░   50.47 % 
+Python                   17 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Shell                    13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Rust                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
 ```
 
 
@@ -84,5 +84,5 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yosui/yosui/master/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 19:59:59 UTC
+ Last Updated on 01/08/2026 19:40:31 UTC
 <!--END_SECTION:waka-->
