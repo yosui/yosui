@@ -70,11 +70,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               56 repos            ███████████░░░░░░░░░░░░░░   45.53 % 
-Python                   23 repos            █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-Shell                    20 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Rust                     7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+TypeScript               55 repos            ███████████░░░░░░░░░░░░░░   45.08 % 
+Python                   23 repos            █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+Shell                    20 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Rust                     7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 ```
 
 
@@ -84,5 +84,5 @@ HTML                     6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yosui/yosui/master/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 23:29:01 UTC
+ Last Updated on 09/10/2026 22:46:55 UTC
 <!--END_SECTION:waka-->
